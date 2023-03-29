@@ -1,0 +1,11 @@
+user_id,exercise_id,date,duration,calories,type
+1,1,2022-01-01,30,200,running
+1,2,2022-01-02,45,300,cycling
+2,3,2022-01-01,60,500,weightlifting
+2,4,2022-01-02,30,250,running
+3,5,2022-01-01,45,350,cycling
+3,6,2022-01-03,60,500,weightlifting
+4,7,2022-01-02,30,200,running
+4,8,2022-01-03,45,300,cycling
+5,9,2022-01-01,60,500,weightlifting
+5,10,2022-01-02,30,250,running
