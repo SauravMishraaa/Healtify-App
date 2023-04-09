@@ -8,8 +8,9 @@ A health app for tracking your daily activities including your diet and also rec
 3. Test your changes rigorously before creating a pull request
 
 ## TODOS
-1. Creating UI using Figma.
-2. Creating a landing page.
+1. Creating a UI using Figma.
+2. Creating a landing/home page for the user.
+3. Creating a signup/signin page.
 
 ## Future Ideas
 1. Integrating a diet based recommendation model
