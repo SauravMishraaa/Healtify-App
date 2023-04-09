@@ -33,8 +33,9 @@ cd Healtify-App
 ```
 • Start contributing 
 
-## You can contact with me:
+## You can contact me:
 
-gmail: sauravmishra623@gmail.com
+Gmail: sauravmishra623@gmail.com
+
 
 # Hope you enjoy contributing ❤️
