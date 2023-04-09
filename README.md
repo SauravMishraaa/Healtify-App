@@ -11,6 +11,7 @@ A health app for tracking your daily activities including your diet and also rec
 1. Creating a UI using Figma.
 2. Creating a landing/home page for the user.
 3. Creating a signup/signin page.
+4. Helping me out in making diet recommendation model.
 
 ## Future Ideas
 1. Integrating a diet based recommendation model
