@@ -2,12 +2,20 @@
 A health app for tracking your daily activities including your diet and also recommending exercise/workouts for your better life.
 
 
-# Rules to Contribute
+## Rules to Contribute
 1. Star the Repository
 2. Create your fork
 3. Test your changes rigorously before creating a pull request
 
-# How to Run this for Development
+## TODOS
+1. Creating UI using Figma.
+2. Creating a landing page.
+
+## Future Ideas
+1. Integrating a diet based recommendation model
+2. Many more things...
+
+## How to Run this for Development
 • Clone the project
 
 ```bash
@@ -18,3 +26,6 @@ A health app for tracking your daily activities including your diet and also rec
 ```bash
 cd Healtify-App
 ```
+• Start contributing 
+
+# Hope you enjoy contributing ❤️
