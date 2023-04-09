@@ -18,7 +18,9 @@ A health app for tracking your daily activities including your diet and also rec
 
 ## How to Run this for Development
 • Create a folder where you want clone this project.
+
 • Go to that folder directory.
+
 • Clone the project
 
 ```bash
