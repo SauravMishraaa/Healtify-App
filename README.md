@@ -20,7 +20,7 @@ A health app for tracking your daily activities including your diet and also rec
 • Clone the project
 
 ```bash
-  git clone git@github.com:SauravMishraaa/Healtify-App.git
+git clone git@github.com:SauravMishraaa/Healtify-App.git
 ```
 • Go to the project directory
 
