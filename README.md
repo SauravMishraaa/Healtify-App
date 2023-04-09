@@ -9,4 +9,5 @@ A health app for tracking your daily activities including your diet and also rec
 
 # How to Run this for Development
 Clone the project
+
 git clone git@github.com:SauravMishraaa/Healtify-App.git
